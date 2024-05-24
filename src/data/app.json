@@ -1,0 +1,75 @@
+{
+  "settings": {
+    "siteName": "Aigerim",
+    "mailchimp": {
+      "url": "",
+      "key": ""
+    }
+  },
+  "header": {
+    "logo": {
+      "symbol": "AM",
+      "link": "/"
+    },
+    "button": {
+      "link": "/contact"
+    },
+    "menu": [
+      {
+        "label": "Главная",
+        "link": "/",
+        "children": [
+          {
+            "label": "Главная",
+            "link": "/"
+          },
+          {
+            "label": "Слайд Портфолио",
+            "link": "/projects-5"
+          }
+        ]
+      },
+      {
+        "label": "Проекты",
+        "link": "/projects",
+        "children": [
+
+        ]
+      },
+
+      {
+        "label": "Contact",
+        "link": "/contact",
+        "children": 0
+      },
+      {
+        "label": "Other",
+        "link": "/story",
+        "children": [
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "copy": "© 2023. Aigerim. All rights reserved.",
+      "dev": "Developed by: &nbsp;<a href=\"https://github.com/Aigerim1809/\" target=\"_blank\">Aigerim Madiomarova</a>"
+  },
+  "social": [
+    {
+      "link": "https://linkedin.com/",
+      "icon": "fab fa-linkedin",
+      "title": "Linkedin"
+    },
+    {
+      "link": "https://github.com/Aigerim1809",
+      "icon": "fab fa-github",
+      "title": "Github"
+    },
+    {
+      "link": "https://twitter.com/",
+      "icon": "fab fa-twitter",
+      "title": "Twitter"
+    }
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Hard Skills",
+    "items": [
+        {
+            "label": "Figma",
+            "value": "95"
+        },
+        {
+            "label": "Adobe Photoshop",
+            "value": "90"
+        },
+        {
+            "label": "Adobe After Effects",
+            "value": "85"
+        },
+        {
+            "label": "React",
+            "value": "85"
+        },
+        {
+            "label": "Html",
+            "value": "80"
+        },
+        {
+            "label": "Css",
+            "value": "95"
+        }
+    ]
+}
